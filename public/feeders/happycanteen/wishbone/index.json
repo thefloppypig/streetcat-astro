@@ -1,0 +1,16 @@
+{
+    "name": "Mr. Wishbone",
+    "img": {
+        "front": "meow.camera_4258783365322591678_1715694721958.webp",
+        "back": "meow.camera_4258783365322591678_1715780470163.webp",
+        "eating": "meow.camera_4258783365322591678_1715780518903.webp"
+    },
+    "type": "orange",
+    "colours": [
+        "orange",
+        "white"
+    ],
+    "features": [
+        "Distinctive 'wishbone' marking on face"
+    ]
+}

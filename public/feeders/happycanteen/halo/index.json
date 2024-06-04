@@ -1,0 +1,18 @@
+{
+    "name": "Mr. Halo",
+    "img": {
+        "front": "meow.camera_4258783365322591678_1713440953778.webp",
+        "back": "meow.camera_4258783365322591678_1713440999596.webp",
+        "eating": "meow.camera_4258783365322591678_1714128970421.webp"
+    },
+    "type": "brown",
+    "colours": [
+        "brown",
+        "grey",
+        "white"
+    ],
+    "features": [
+        "White markings on face next to his mouth, the left marking is more defined than the right",
+        "White chest"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mr. Sus",
+    "img": {
+        "front": "meow.camera_4258783365322591678_1713951323491.webp",
+        "back": "meow.camera_4258783365322591678_1714059931489.webp",
+        "eating": "meow.camera_4258783365322591678_1713951315277.webp"
+    },
+    "type": "orange",
+    "colours": [
+        "orange",
+        "white"
+    ],
+    "features": [
+        "Has an orange patch on the right leg but the left leg is white (when viewed from the front)"
+    ]
+}

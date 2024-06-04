@@ -1,0 +1,17 @@
+{
+    "name": "Mr. Janitor",
+    "img": {
+        "front": "meow.camera_4258783365322591678_1713449309474.webp",
+        "back": "meow.camera_4258783365322591678_1713449170116.webp",
+        "eating": "meow.camera_4258783365322591678_1713449127573.webp"
+    },
+    "type": "brown",
+    "colours": [
+        "brown",
+        "grey",
+        "white"
+    ],
+    "features": [
+        "Will often take food out of the feeder and eat off the floor"
+    ]
+}

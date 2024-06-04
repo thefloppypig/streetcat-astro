@@ -1,0 +1,16 @@
+{
+    "name": "Ms. Sleepy",
+    "img": {
+        "front": "meow.camera_4258783365322591678_1717424673152.webp",
+        "back": "meow.camera_4258783365322591678_1713452443318.webp",
+        "eating": "meow.camera_4258783365322591678_1717424532586.webp"
+    },
+    "type": "orange",
+    "colours": [
+        "orange",
+        "white"
+    ],
+    "features": [
+        "Often seen with her sister, Ms Puke"
+    ]
+}

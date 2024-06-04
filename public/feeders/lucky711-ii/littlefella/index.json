@@ -1,0 +1,12 @@
+{
+    "name": "Little Fella",
+    "img": {
+        "front": "meow.camera_4291094747934800009_1714837258749.webp",
+        "back": "meow.camera_4291094747934800009_1714837262169.webp",
+        "eating": "meow.camera_4291094747934800009_1714931019084.webp"
+    },
+    "type": "orange",
+    "colours": [
+        "orange"
+    ]
+}

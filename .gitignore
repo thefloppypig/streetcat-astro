@@ -1,5 +1,10 @@
 # build output
 dist/
+public/**/meta.json
+!dist/**/meta.json
+
+public/feeders/feederList.json
+public/feeders/**/catList.json
 
 # generated types
 .astro/

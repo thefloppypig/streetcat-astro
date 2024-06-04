@@ -1,0 +1,16 @@
+{
+    "name": "Mr. Beetle",
+    "img": {
+        "front": "meow.camera_4258783365322591678_1713438093160.webp",
+        "back": "meow.camera_4258783365322591678_1713444224146.webp",
+        "eating": "meow.camera_4258783365322591678_1713438182375.webp"
+    },
+    "type": "brown",
+    "colours": [
+        "grey",
+        "brown"
+    ],
+    "features": [
+        "Pattern on back looks like a beetle (kinda)"
+    ]
+}

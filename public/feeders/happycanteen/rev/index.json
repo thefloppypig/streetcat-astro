@@ -1,0 +1,19 @@
+{
+    "name": "Mr. Rev",
+    "img": {
+        "front": "meow.camera_4258783365322591678_1714141266978.webp",
+        "back": "meow.camera_4258783365322591678_1714141288190.webp",
+        "eating": "meow.camera_4258783365322591678_1714141392701.webp"
+    },
+    "type": "orange",
+    "colours": [
+        "orange",
+        "white"
+    ],
+    "features": [
+        "Clipped left ear, more visible than other cats",
+        "Back legs are all white",
+        "White chest",
+        "Front paws are white"
+    ]
+}
