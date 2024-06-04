@@ -1,8 +1,8 @@
 import React, { ReactNode } from "react";
-import Masonry, { ResponsiveMasonry } from "react-responsive-masonry";
 import { getCatUrl } from "../utils/readFiles";
 import { CatImage } from "./CatImage";
 import { CatData } from "../Types";
+import Masonry, { ResponsiveMasonry } from "react-responsive-masonry";
 
 interface CatPageProps {
     filesLocal: string[]
@@ -13,9 +13,17 @@ interface CatPageProps {
 export default function CatPage(props: CatPageProps) {
     const { catData, filesLocal, filesExt } = props;
 
-    return (
-        null
-    )
+    return <>
+        <div>ok</div>
+        <ResponsiveMasonry
+            columnsCountBreakPoints={{ 300: 1, 500: 2, 750: 3, 1000: 4, 2000: 6 }}
+        >
+            <Masonry>
+                {getGalleryElements(filesLocal, catData)}
+                {getExtGalleryElements(filesExt, catData)}
+            </Masonry>
+        </ResponsiveMasonry>
+    </>
 }
 
 export function getGalleryElements(files: string[], catData: CatData) {
