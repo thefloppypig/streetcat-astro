@@ -105,7 +105,3 @@ export async function getMeta(path: string) {
     const json = await getCachedJson<FolderMetaData>(`${path}/meta.json`);
     return json;
 }
-
-export function getCatUrl(catData: CatData, img: string) {
-    return `${feederRootPublic}/${catData.__feeder}/${catData.__cat}/${img}`
-}
